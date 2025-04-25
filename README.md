@@ -87,40 +87,37 @@ Finlytic aims to empower users to take control of their finances through a simpl
 
 <br>
 
-## Team Members
+## Contributors
 
 The Finlytic project was developed by the following team:
 
 <div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>PRN No</th>
-                <th>GitHub Profile</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Gaurav Jadhav</td>
-                <td>B24IT1054</td>
-                <td><a href="https://github.com/GauravJadhav">GauravJadhav</a></td>
-            </tr>
-            <tr>
-                <td>Shreyash Mandlapure</td>
-                <td>B24IT1130</td>
-                <td><a href="https://github.com/ShreyashMandlapure">ShreyashMandlapure</a></td>
-            </tr>
-            <tr>
-                <td>Tanushree Patil</td>
-                <td>B24IT1049</td>
-                <td><a href="https://github.com/TanushreePatil">TanushreePatil</a></td>
-            </tr>
-            <tr>
-                <td>Sanika Pujari</td>
-                <td>B24IT1058</td>
-                <td><a href="https://github.com/SanikaPujari">SanikaPujari</a></td>
-            </tr>
-        </tbody>
-    </table>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/OtakuNoDev">
+          <img src="https://github.com/OtakuNoDev.png" width="100px" style="border-radius: 50%;" alt="Gaurav Jadhav"/><br />
+          <sub><b>Gaurav Jadhav</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Yash-codes2024">
+          <img src="https://github.com/Yash-codes2024.png" width="100px" style="border-radius: 50%;" alt="Shreyash Mandlapure"/><br />
+          <sub><b>Shreyash Mandlapure</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Tanushreep2706">
+          <img src="https://github.com/Vinit1936.png" width="100px" style="border-radius: 50%;" alt="Vinit Patil"/><br />
+          <sub><b>Tanushree Patil</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sanika85">
+          <img src="https://github.com/Sarthakpatil23.png" width="100px" style="border-radius: 50%;" alt="Sarthak Patil"/><br />
+          <sub><b>Sanika Pujari</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
