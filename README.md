@@ -35,6 +35,58 @@ The design of Finlytic is based on thorough UX research, focusing on user needs 
 * **Efficient Transaction Tracking:** Simple and fast transaction input is a priority.
 * **Personalized Insights:** Users benefit from personalized feedback and recommendations.
 
+## Figma Design
+
+The user interface for Finlytic was designed using Figma. The following illustrates key screens and design elements:
+
+<br>
+<div align="center">
+<a href="https://youtu.be/QhelQqo4JuA" target="_blank">
+<img src="http://i3.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Working Video" width="400"/>
+</a>
+<p><em>Login Screen Design (Video)</em></p>
+</div>
+<br>
+
+## Low Fidelity Wireframes
+
+The following images represent the initial low-fidelity wireframes of the Finlytic app, outlining the basic structure and layout of key screens:
+
+<br>
+<div align="center">
+<img src="https://github.com/OtakuNoDev/Finlytic/blob/eb1b4fafae5cde589ce02e6d15861c687dcf7168/Images/low_fidelity.png" alt="Low Fidelity Wireframe" width="400" />
+<p><em>Low Fidelity Wireframe</em></p>
+</div>
+<br>
+
+## Sitemap
+
+The following images represent the high-fidelity wireframes of the Finlytic app, showcasing the refined visual design, layout, and user interface elements:
+
+<br>
+<div align="center">
+<img src="https://github.com/OtakuNoDev/Finlytic/blob/eb1b4fafae5cde589ce02e6d15861c687dcf7168/Images/Sitemap.png" alt="Sitemap" width="400" />
+<p><em>App Sitemap</em></p>
+</div>
+<br>
+
+## Future Improvements
+
+The following improvements are planned for future development:
+
+* Enhanced Personalization with AI-powered financial advice.
+* Integration with financial institutions for automated transaction imports.
+* Gamification elements to increase user engagement.
+* Accessibility enhancements for all users.
+* Refined data visualizations for more actionable insights.
+* Robust user feedback mechanisms for continuous improvement.
+
+## Conclusion
+
+Finlytic aims to empower users to take control of their finances through a simple, intuitive, and feature-rich mobile application. We believe that Finlytic can make a significant difference in how people manage their money.
+
+<br>
+
 ## Team Members
 
 The Finlytic project was developed by the following team:
@@ -72,70 +124,3 @@ The Finlytic project was developed by the following team:
         </tbody>
     </table>
 </div>
-
-## Figma Design
-
-The user interface for Finlytic was designed using Figma. The following illustrates key screens and design elements:
-
-<br>
-<div align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-<img src="http://i3.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Login Screen Video" width="400"/>
-</a>
-<p><em>Login Screen Design (Video)</em></p>
-</div>
-<br>
-
-## Low Fidelity Wireframes
-
-The following images represent the initial low-fidelity wireframes of the Finlytic app, outlining the basic structure and layout of key screens:
-
-<br>
-<div align="center">
-<img src="![Image Alt Text]([https://github.com/OtakuNoDev/Finlytic/blob/main/Images/download.jpeg](https://github.com/OtakuNoDev/Finlytic/blob/fafd26d6d6dbac54bbcba51decb230e471ccafc1/Images/download.jpeg))" alt="Low Fidelity Wireframe - Home Screen" width="400"/>
-<p><em>Home Screen - Low Fidelity Wireframe</em></p>
-</div>
-<br>
-
-<div align="center">
-<img src="https://via.placeholder.com/400" alt="Low Fidelity Wireframe - Transaction Screen" width="400"/>
-<p><em>Transaction Screen - Low Fidelity Wireframe</em></p>
-</div>
-<br>
-
-## High Fidelity Wireframes
-
-The following images represent the high-fidelity wireframes of the Finlytic app, showcasing the refined visual design, layout, and user interface elements:
-
-<br>
-<div align="center">
-<img src="https://via.placeholder.com/400" alt="High Fidelity Wireframe - Home Screen" width="400"/>
-<p><em>Home Screen - High Fidelity Wireframe</em></p>
-</div>
-<br>
-
-<div align="center">
-<img src="https://via.placeholder.com/400" alt="High Fidelity Wireframe - Transaction Screen" width="400"/>
-<p><em>Transaction Screen - High Fidelity Wireframe</em></p>
-</div>
-<br>
-
-**Note:**
-
-* The Login Screen is represented by a video. The link is a placeholder. Replace `https://www.youtube.com/watch?v=dQw4w9WgXcQ` with the actual URL of your YouTube video. The image is also a placeholder.
-* The Low Fidelity and High Fidelity Wireframe sections use `https://via.placeholder.com/400` as placeholders. Replace them with the actual URLs of your Figma image exports.
-
-## Future Improvements
-
-The following improvements are planned for future development:
-
-* Enhanced Personalization with AI-powered financial advice.
-* Integration with financial institutions for automated transaction imports.
-* Gamification elements to increase user engagement.
-* Accessibility enhancements for all users.
-* Refined data visualizations for more actionable insights.
-* Robust user feedback mechanisms for continuous improvement.
-
-## Conclusion
-
-Finlytic aims to empower users to take control of their finances through a simple, intuitive, and feature-rich mobile application. We believe that Finlytic can make a significant difference in how people manage their money.
