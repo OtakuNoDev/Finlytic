@@ -128,3 +128,14 @@ The Finlytic project was developed by the following team:
     </tr>
   </table>
 </div>
+
+<br>
+
+<div align="center">
+    <a href="[https://www.figma.com/file/YOUR_FIGMA_FILE_URL](https://www.figma.com/design/M81izmpuFBfQikad8hw3wc/Finlytic_Gaurav-Shreyash-edit?node-id=7020-3430&t=9K5eEwwgVU4NV8ca-1)" target="_blank">
+        <img src="https://img.shields.io/badge/Figma-Design-blue" alt="Figma Design" />
+    </a>
+    <a href="https://github.com/OtakuNoDev/Finlytic.git" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Repo-green" alt="GitHub Repository" />
+    </a>
+</div>
