@@ -80,7 +80,7 @@ The following improvements are planned for future development:
 * Accessibility enhancements for all users.
 * Refined data visualizations for more actionable insights.
 * Robust user feedback mechanisms for continuous improvement.
-
+<br>
 ## Conclusion
 
 Finlytic aims to empower users to take control of their finances through a simple, intuitive, and feature-rich mobile application. We believe that Finlytic can make a significant difference in how people manage their money.
