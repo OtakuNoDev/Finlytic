@@ -108,13 +108,13 @@ The Finlytic project was developed by the following team:
       </td>
       <td align="center">
         <a href="https://github.com/Tanushreep2706">
-          <img src="https://github.com/Vinit1936.png" width="100px" style="border-radius: 50%;" alt="Vinit Patil"/><br />
+          <img src="https://github.com/Tanushreep2706.png" width="100px" style="border-radius: 50%;" alt="Tanushree Patil"/><br />
           <sub><b>Tanushree Patil</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Sanika85">
-          <img src="https://github.com/Sarthakpatil23.png" width="100px" style="border-radius: 50%;" alt="Sarthak Patil"/><br />
+          <img src="https://github.com/Sanika85.png" width="100px" style="border-radius: 50%;" alt="Sanika Pujari"/><br />
           <sub><b>Sanika Pujari</b></sub>
         </a>
       </td>
