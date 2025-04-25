@@ -92,7 +92,7 @@ The following images represent the initial low-fidelity wireframes of the Finlyt
 
 <br>
 <div align="center">
-<img src="![Image Alt Text](https://github.com/OtakuNoDev/Finlytic/blob/main/Images/download.jpeg)" alt="Low Fidelity Wireframe - Home Screen" width="400"/>
+<img src="![Image Alt Text]([https://github.com/OtakuNoDev/Finlytic/blob/main/Images/download.jpeg](https://github.com/OtakuNoDev/Finlytic/blob/fafd26d6d6dbac54bbcba51decb230e471ccafc1/Images/download.jpeg))" alt="Low Fidelity Wireframe - Home Screen" width="400"/>
 <p><em>Home Screen - Low Fidelity Wireframe</em></p>
 </div>
 <br>
