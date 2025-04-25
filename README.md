@@ -53,6 +53,15 @@ The user interface for Finlytic was designed using Figma. The following illustra
 </div>
 <br>
 
+## Taskflow
+
+<br>
+<div align="center">
+<img src="https://github.com/OtakuNoDev/Finlytic/blob/ac35ef3fd52a3c7376ef43d85d101a1ab2ff55d5/Images/Flowchaart.drawio.png" alt="Low Fidelity Wireframe" width="400" />
+<p><em>Taskflow</em></p>
+</div>
+<br>
+
 ## Low Fidelity Wireframes
 
 The following images represent the initial low-fidelity wireframes of the Finlytic app, outlining the basic structure and layout of key screens:
