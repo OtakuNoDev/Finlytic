@@ -35,7 +35,7 @@ The design of Finlytic is based on thorough UX research, focusing on user needs 
 * **Efficient Transaction Tracking:** Simple and fast transaction input is a priority.
 * **Personalized Insights:** Users benefit from personalized feedback and recommendations.
 
-## Figma Design
+## Working Prototype
 
 The user interface for Finlytic was designed using Figma. The following illustrates key screens and design elements:
 
