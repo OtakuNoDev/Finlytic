@@ -1,5 +1,10 @@
 # Finlytic - Financial Management Tool
 
+<div align="center">
+    <img src="https://github.com/OtakuNoDev/Finlytic/blob/5f6a9b57aefd9a94c6954fd72798247c08a1f374/Images/Secure%20Savings%20Logo.png" alt="Finlytic App Logo" width="200" />
+</div>
+<br>
+
 Finlytic is a user-friendly financial management tool designed to simplify personal finance tracking. This project provides a mobile application that empowers users to effectively manage their income, expenses, and savings goals. The user interface for Finlytic was designed using Figma.
 
 ## Project Overview
@@ -42,9 +47,9 @@ The user interface for Finlytic was designed using Figma. The following illustra
 <br>
 <div align="center">
 <a href="https://youtu.be/QhelQqo4JuA" target="_blank">
-<img src="http://i3.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Working Video" width="400"/>
+<img src="https://github.com/OtakuNoDev/Finlytic/blob/d83ea6f7d05c9e6949379b8bc6b2e09220a37c9e/Images/Finlytic.png" alt="Working Video" width="400"/>
 </a>
-<p><em>Login Screen Design (Video)</em></p>
+<p><em>Youtube - Working</em></p>
 </div>
 <br>
 
